@@ -53,6 +53,33 @@ No | Site    | Coin    |Hack |Claim | Walet
 
 > EP = ExpressCrypto, FP = FaucedPay
 
+
+## GIT
+
+### 1 Clone Code
+
+```
+~$ git clone https://github.com/Oppipo2610/FaucetCode.git
+
+~$ cd FaucetCode
+
+```
+
+### 2 Pull/Push Code
+
+```
+~$ git init
+
+~$ git add .
+
+~$ git commit -m "text"
+
+~$ git remote add master https://github.com/Oppipo2610/FaucetCode.git
+
+~$ git push
+
+```
+
 ## Address [FaucedPay](https://faucetpay.io/?r=2178387) and [ExpressCrypto](https://expresscrypto.io/signup?referral=464632)
 
 ### Walet ExpressCrypto
